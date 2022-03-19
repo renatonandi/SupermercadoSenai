@@ -3,6 +3,7 @@ package br.com.senai.supermercadosenai.entity;
 import java.math.BigDecimal;
 
 public class Imposto {
+
 	
 	private Integer id;//Novo Comentário
 	
@@ -25,5 +26,6 @@ public class Imposto {
 	}
 	
 	
+
 
 }
